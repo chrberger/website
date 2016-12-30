@@ -1,5 +1,5 @@
 baseurl = "https://chrberger.github.io/"
-title = "Associate Professor Dr Christian Berger"
+title = "Software Engineering for an Automated and Digitalized World."
 copyright = "&copy; 2016 Christian Berger"
 theme = "academic"
 enableEmoji = true
@@ -24,8 +24,8 @@ defaultContentLanguageInSubdir = false
   organization = "University of Gothenburg"
   avatar = "portrait.jpg"
   email = "christian.berger@gu.se"
-  address = "H&ouml;rselg&aring;ngen 5, 41296 Gothenburg, Sweden"
-  office_hours = "email for appointment"
+  address = "Hörselgången 5, 41296 Gothenburg, Sweden"
+#  office_hours = "email for appointment"
   phone = "+46 31 772 6038"
   skype = ""
   telegram = ""

@@ -12,12 +12,17 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Software and System Architecting",
-    "Self-Driving Vehicles",
-    "Simulation Engineering"
+    "Architecting Software and Systems",
+    "Distributed Embedded Systems",
+    "Self-Driving Vehicles"
   ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Docent in Software Engineering"
+  institution = "University of Gothenburg, Sweden"
+  year = 2015
+
 [[education.courses]]
   course = "PhD in Software Engineering"
   institution = "RWTH Aachen University, Germany"
@@ -25,12 +30,15 @@ weight = 1
 
 [[education.courses]]
   course = "MSc. in Business Informatics"
-  institution = "Technische Universit&auml;t Braunschweig, Germany"
+  institution = "Technische Universität Braunschweig, Germany"
   year = 2006
 
 +++
 
 # Biography
 
-Dr. Christian Berger is Associate Professor at in the Department of Computer Science and Engineering at the University of Gothenburg, Sweden. He received his Ph.D. from RWTH Aachen University, Germany for his work on software engineering for self-driving vehicles together with academic and industrial partners like University of California, Berkeley in California and Volkswagen Group. His research expertise is on distributed software systems, embedded systems, and continuous integration/deployment/experimentation for cyber-physical systems. He coordinated the interdisciplinary project for the development of the autonomously driving vehicle "Caroline", which participated in the 2007 DARPA Urban Challenge Final in the United States. He supported Chalmers Truck Team to develop a self-driving vehicle for the 2016 Grand Cooperative Driving Challenge in The Netherlands. Currently, he is coordinating research projects on self-driving vehicles at Chalmers and University of Gothenburg in Sweden like COPPLAR, a platform to conduct research around self-driving functionality in inner-city-like environments.
+Dr. Christian Berger is Associate Professor at in the Department of Computer Science and Engineering at the University of Gothenburg, Sweden. His research focuses on systematically architecting complex software and systems embracing continuous integration, continuous deployment, and continuous experimentation.
 
+He coordinated [Team CarOLO](https://en.wikipedia.org/wiki/DARPA_Grand_Challenge_(2007)) - one of only eleven finalist teams in the [2007 DARPA Urban Challenge](http://archive.darpa.mil/grandchallenge/) and supported Chalmers Truck Team to develop a [self-driving truck](https://www.chalmers.se/en/news/Pages/Self-driving-trucks-2016.aspx) for the [2016 Grand Cooperative Driving Challenge in The Netherlands](http://www.gcdc.net/en/).
+
+Currently, he is coordinating research projects at [Chalmers Revere](http://www.chalmers.se/en/researchinfrastructure/revere/Pages/default.aspx) - a state of the art vehicle research laboratory using [OpenDaVINCI](http://code.opendavinci.org) and [OpenDLV](https://github.com/chalmers-revere/opendlv.core/releases).
