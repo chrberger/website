@@ -13,6 +13,8 @@ def fixLatexString(input):
    s = s.replace("\\\"{A}", "Ä")
    s = s.replace("\\\"{O}", "Ö")
    s = s.replace("\\\"{U}", "Ü")
+   s = s.replace("\"", "")
+   s = s.replace("\\", "")
    return s
 
 with open('library.bib') as bibtex_file:
@@ -37,7 +39,7 @@ for entry in bib_database.entries:
     print "Processing " + entry["ID"]
     file = open("content/publication/" + entry["ID"] + ".md", "w")
     file.write("+++\n")
-    file.write("title = \"" + entry["title"] + "\"\n")
+    file.write("title = \"" + fixLatexString(entry["title"]) + "\"\n")
     if "abstract" in entry:
         file.write("abstract = \"" + entry["abstract"] + "\"\n")
     else:
