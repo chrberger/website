@@ -95,9 +95,14 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "Start"
+  url = "#mission"
   weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "#about"
+  weight = 2
 
 #[[menu.main]]
 #  name = "Publications"

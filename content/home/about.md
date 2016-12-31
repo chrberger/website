@@ -7,7 +7,7 @@ draft = false
 widget = "about"
 
 # Order that this section will appear in.
-weight = 1
+weight = 10
 
 # List your academic interests.
 [interests]
@@ -37,7 +37,7 @@ weight = 1
 
 # Biography
 
-Dr. Christian Berger is Associate Professor at in the Department of Computer Science and Engineering at the University of Gothenburg, Sweden. His research focuses on systematically architecting complex software and systems embracing continuous integration, continuous deployment, and continuous experimentation.
+Dr. Christian Berger is Associate Professor in the Department of Computer Science and Engineering at University of Gothenburg, Sweden. His research focuses on systematically architecting complex software and systems embracing continuous integration, continuous deployment, and continuous experimentation.
 
 He coordinated [Team CarOLO](https://en.wikipedia.org/wiki/DARPA_Grand_Challenge_(2007)) - one of only eleven finalist teams in the [2007 DARPA Urban Challenge](http://archive.darpa.mil/grandchallenge/) and supported Chalmers Truck Team to develop a [self-driving truck](https://www.chalmers.se/en/news/Pages/Self-driving-trucks-2016.aspx) for the [2016 Grand Cooperative Driving Challenge in The Netherlands](http://www.gcdc.net/en/).
 
