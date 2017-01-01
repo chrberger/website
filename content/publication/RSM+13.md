@@ -14,7 +14,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = ""
+url_pdf = "http://link.springer.com/chapter/10.1007/978-3-642-39259-7_26"
 url_video = ""
 url_dataset = ""
 

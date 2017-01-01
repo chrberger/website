@@ -13,7 +13,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = ""
+url_pdf = "http://ceur-ws.org/Vol-625/MDPLE2010-paper5-Mengi.pdf"
 url_video = ""
 url_dataset = ""
 

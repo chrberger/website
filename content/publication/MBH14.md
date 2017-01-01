@@ -13,7 +13,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = ""
+url_pdf = "http://dl.acm.org/citation.cfm?id=2708923"
 url_video = ""
 url_dataset = ""
 

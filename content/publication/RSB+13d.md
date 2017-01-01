@@ -13,7 +13,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = ""
+url_pdf = "https://pdfs.semanticscholar.org/c606/9a8f5c7019cf0429f6cd6ddd85c25f927209.pdf"
 url_video = ""
 url_dataset = ""
 

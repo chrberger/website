@@ -14,7 +14,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = ""
+url_pdf = "http://www.igi-global.com/chapter/cloud-based-testing-context-aware/72227"
 url_video = ""
 url_dataset = ""
 
