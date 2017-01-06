@@ -22,9 +22,9 @@ weight = 5
 # Vision & Mission
 
 More and more products for our daily life are driven by software that is
-simultaneously processing and producing a growing amount of surrounding data.
+simultaneously processing and producing a growing amount of data.
 
-A self-driving vehicle is a [perfect example](http://sites.ieee.org/connected-vehicles/2016/11/15/intel-announces-250-million-investment-autonomous-driving/) for a system that has to deal with an
+A self-driving vehicle is a [perfect example](http://sites.ieee.org/connected-vehicles/2016/11/15/intel-announces-250-million-investment-autonomous-driving/) for a complex system that has to deal with an
 increasing amount of realtime data but that also benefits from enormous amounts
 of [data from the past for machine learning](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/why-ai-makes-selfdriving-cars-hard-to-prove-safe).
 
