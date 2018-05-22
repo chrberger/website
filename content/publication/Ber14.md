@@ -13,7 +13,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = "http://arxiv.org/abs/1406.7768"
+url_pdf = "https://arxiv.org/pdf/1406.7768"
 url_video = ""
 url_dataset = ""
 

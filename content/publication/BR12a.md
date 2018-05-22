@@ -14,7 +14,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = "http://dx.doi.org/10.1007/978-0-85729-772-3_10"
+url_pdf = "https://arxiv.org/pdf/1409.6579"
 url_video = ""
 url_dataset = ""
 

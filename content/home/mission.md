@@ -9,8 +9,10 @@ title = ""
 subtitle = ""
 widget = "customwithsideimage"
 
-sideimage = "PointCloudView.png"
-sideimagecaption = "Point Cloud from Velodyne LiDAR at AstaZero City Area."
+# sideimage = "PointCloudView.png"
+# sideimagecaption = "Point Cloud from Velodyne LiDAR at AstaZero City Area."
+sideimage = "AstaZeroRuralRoad.gif"
+sideimagecaption = "Evaluating our self-driving vehicle algorithms at AstaZero Proving Ground."
 
 # Order that this section will appear in.
 weight = 5

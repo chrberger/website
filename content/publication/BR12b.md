@@ -14,7 +14,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = "https://arxiv.org/pdf/1409.0413v1.pdf"
+url_pdf = "https://arxiv.org/pdf/1409.0413"
 url_video = ""
 url_dataset = ""
 

@@ -13,7 +13,7 @@ selected = false
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = "http://arc.aiaa.org/doi/abs/10.2514/1.33453"
+url_pdf = "https://arxiv.org/pdf/1409.7121"
 url_video = ""
 url_dataset = ""
 

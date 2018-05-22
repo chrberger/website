@@ -16,3 +16,6 @@ autolink = true
 
 +++
 
+*Privacy Notice*
+
+This sources from which this website was generated do not use cookies to track visitors. The content of this website is hosted at [github.io](https://github.io), a service provided by GitHub, Inc. More information about GitHub Inc.'s privacy policy can be found [here](https://help.github.com/articles/github-privacy-statement/#what-information-github-collects-and-why).

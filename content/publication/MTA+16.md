@@ -13,7 +13,7 @@ selected = true
 url_slides = ""
 url_project = ""
 url_code = ""
-url_pdf = "http://ieeexplore.ieee.org/abstract/document/7795942/"
+url_pdf = "https://arxiv.org/pdf/1608.06759"
 url_video = ""
 url_dataset = ""
 

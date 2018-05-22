@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = "chrberger"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-21048677-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -86,7 +86,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/se-research"
+    link = "//github.com/chrberger"
 
 
 # Navigation Links
