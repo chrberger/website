@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Software Engineer | Researcher.</title>
+    <link>https://chrberger.github.io/publication/</link>
+    <description>Recent content in Publications on Software Engineer | Researcher.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Christian Berger</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>When to Use What Data Set for Your Self-Driving Car Algorithm: An Overview of Publicly Available Driving Datasets</title>
+      <link>https://chrberger.github.io/publication/yb17b/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/yb17b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considerations about Continuous Experimentation for Resource-Constrained Platforms in Self-Driving Vehicles</title>
+      <link>https://chrberger.github.io/publication/gbk17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/gbk17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting and Evaluating Software Model Growth in the Automotive Industry</title>
+      <link>https://chrberger.github.io/publication/sbk&#43;17b/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/sbk&#43;17b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering Data Complexity for Autonomous Driving with Adaptive Point Clouds for Urban Environments</title>
+      <link>https://chrberger.github.io/publication/yb17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/yb17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paving the Roadway for Safety of Automated Vehicles: An Empirical Study on Testing Challenges</title>
+      <link>https://chrberger.github.io/publication/ksbe17/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ksbe17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Agile Development in Mechatronic Organizations - A Comparative Case Study</title>
+      <link>https://chrberger.github.io/publication/eb17/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/eb17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Related Challenges of Testing Automated Vehicles</title>
+      <link>https://chrberger.github.io/publication/ksbe17a/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ksbe17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containerized Development and Microservices for Self-Driving Vehicles: Experiences &amp; Best Practices</title>
+      <link>https://chrberger.github.io/publication/bnb17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/bnb17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Criteria to Architect Continuous Experimentation for Self-Driving Vehicles</title>
+      <link>https://chrberger.github.io/publication/gb17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/gb17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Best Rated Human-Machine Interface Design for Autonomous Vehicles in the 2016 Grand Cooperative Driving Challenge</title>
+      <link>https://chrberger.github.io/publication/bbm17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/bbm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Model Size Predictors in Practice</title>
+      <link>https://chrberger.github.io/publication/sbk&#43;17a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/sbk&#43;17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Evaluation of Sandboxed Software Deployment for Real-time Software on the Example of a Self-Driving Heavy Vehicle</title>
+      <link>https://chrberger.github.io/publication/mta&#43;16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/mta&#43;16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encapsulated Software Build Environments on the Example of a Self-Driving Heavy Vehicle</title>
+      <link>https://chrberger.github.io/publication/ber16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/ber16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing defect inflow distribution and applying Bayesian inference method for software defect prediction in large software projects</title>
+      <link>https://chrberger.github.io/publication/rana2016229/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/rana2016229/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling Anomalies and Their Impact on Software Quality in Model-Based Automotive Software Revisions with Software Metrics and Domain Experts</title>
+      <link>https://chrberger.github.io/publication/sbs&#43;16/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/sbs&#43;16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
