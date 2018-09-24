@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>On Using Blockchains for Safety-Critical Systems</title>
+      <link>https://chrberger.github.io/publication/bpd18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/bpd18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlations of Software Code Metrics: An Empirical Study</title>
+      <link>https://chrberger.github.io/publication/abh17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrberger.github.io/publication/abh17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When to Use What Data Set for Your Self-Driving Car Algorithm: An Overview of Publicly Available Driving Datasets</title>
       <link>https://chrberger.github.io/publication/yb17b/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://chrberger.github.io/publication/ber16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing defect inflow distribution and applying Bayesian inference method for software defect prediction in large software projects</title>
-      <link>https://chrberger.github.io/publication/rana2016229/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/rana2016229/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unveiling Anomalies and Their Impact on Software Quality in Model-Based Automotive Software Revisions with Software Metrics and Domain Experts</title>
-      <link>https://chrberger.github.io/publication/sbs&#43;16/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chrberger.github.io/publication/sbs&#43;16/</guid>
       <description></description>
     </item>
     
